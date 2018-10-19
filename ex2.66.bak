@@ -1,0 +1,15 @@
+#lang racket
+
+(define x (list 1 2 3 4))
+
+(length x)
+
+(quotient 5 2)
+
+
+
+
+
+
+
+

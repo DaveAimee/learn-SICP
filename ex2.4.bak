@@ -1,0 +1,13 @@
+#lang racket
+
+
+(define (side-lengths rect)
+  (cons (seg-len (side1 rect))
+        (min (abs (point-dist (start-seg (side1 rect))
+                              (start-seg (side2 rect))))
+
+
+
+
+
+           
