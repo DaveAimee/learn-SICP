@@ -76,4 +76,3 @@
                    (make-code-tree (make-leaf 'D 1)
                                    (make-leaf 'C 1)))))
 
-sample-tree
